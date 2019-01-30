@@ -1,0 +1,3 @@
+[submodule "statistical-learning-method_lihang_implement"]
+	path = statistical-learning-method_lihang_implement
+	url = https://github.com/WenDesi/lihang_book_algorithm.git
